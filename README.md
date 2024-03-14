@@ -6,7 +6,7 @@ Nothing to say right now
 # SOCIALS
 None (right now)
 
-# MAIN BIO
+# BIO
 Early 2024
 
 Hello github?
