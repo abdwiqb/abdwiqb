@@ -1,4 +1,4 @@
-github/@abdwiqb
+I will update my readme and stuff later 
 
 # STATUS
 Nothing to say right now
@@ -14,6 +14,8 @@ Hello github?
 This is just (one) of my personal accounts (one of the more used ones)
 
 I made this github to store/show most of my personal projects
+
+not for job hunting and stuff
 
 They wont have that much purpose (as in solving "real" problems)
 
