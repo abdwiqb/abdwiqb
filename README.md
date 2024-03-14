@@ -1,4 +1,7 @@
-I will update my readme and stuff later 
+I will update my readme and stuff later with a better format
+
+<a href="https://github.com/abdwiqb/abdwiqb/PROJECTS.md">My projects</a>
+<a href="https://github.com/abdwiqb/abdwiqb/THOUGHTS.md">More Updates</a>
 
 # STATUS
 Nothing to say right now
