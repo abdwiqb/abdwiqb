@@ -1,14 +1,6 @@
 <a href="https://github.com/abdwiqb/abdwiqb/blob/main/PROJECTS.md">My projects</a>
 
-# STATUS
-Nothing to say right now
-
-# SOCIALS
-None (right now)
-
-# BIO
-
-Hello github
+Hello Github
 
 This is just (one) of my personal accounts (one of the more used ones)
 
