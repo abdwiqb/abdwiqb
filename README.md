@@ -8,9 +8,7 @@ None (right now)
 
 # BIO
 
-### Early 2024
-
-Hello github?
+Hello github
 
 This is just (one) of my personal accounts (one of the more used ones)
 
