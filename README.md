@@ -1,5 +1,3 @@
-<a href="https://github.com/abdwiqb/abdwiqb/blob/main/PROJECTS.md">My projects</a>
-
 Hello Github
 
 This is just (one) of my personal accounts (one of the more used ones)
